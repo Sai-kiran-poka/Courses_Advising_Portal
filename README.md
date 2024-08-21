@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Course Advising Portal
 
 ## Overview
@@ -89,3 +90,7 @@ To set up the Course Advising Portal locally, follow these steps:
    npm start
    cd backend
 npm start
+=======
+# Courses_Advising_Portal
+Course Advising Portal: A web-based platform for student course planning and advising.
+>>>>>>> 65b9222f06e38370db75c27a4cebe29a09ade327
